@@ -1,0 +1,9 @@
+name: PrankLevels
+main: me.milagros.pranklevels.PrankLevelsPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  prank:
+    description: Activa o desactiva el modo prank.
+  setpranklevel:
+    description: Cambia el nivel de prank de un jugador.
